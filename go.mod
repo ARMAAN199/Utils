@@ -1,4 +1,4 @@
-module github.com/Armaan199/Utils
+module github.com/ARMAAN199/Utils
 
 go 1.21.5
 
