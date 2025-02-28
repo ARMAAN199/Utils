@@ -10,8 +10,8 @@ import (
 	"github.com/dgrijalva/jwt-go"
 )
 
-var jwtKey = []byte("hello_this_is_a_secret1234")
-var refreshKey = []byte("hello_this_is_another_secret1234")
+var jwtKey = []byte("hello_this_is_a_secret1212")
+var refreshKey = []byte("hello_this_is_another_secret1212")
 
 type Claims struct {
 	Username string `json:"username"`
